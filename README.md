@@ -1,4 +1,4 @@
-# Azure Data Engineering Pipeline using Microsoft Fabric
+# Bing News Analysis Pipeline using Microsoft Fabric
 
 The idea behind this project is to build a data pipeline that:
 - Alerts users of significant changes based on sentiment analysis of text data/ news items of a search engine
