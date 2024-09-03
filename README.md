@@ -12,7 +12,7 @@ This is the architecture of the end-to-end pipeline built in the Azure Platform:
 
 - As the data source, I have used Bing API availabe in the Azure portal.
 - For various processes like ingestion, transformation, storage, alerting system and orchestration of the entire pipeline, I have used all     the tools available as part of Microsoft Fabric .
-- Here's a detailed list of tools used within ** Microsoft Fabric** :
+- Here's a detailed list of tools used within **Microsoft Fabric** :
   -  **Data Factory** for data ingestion from the API, and end-to-end pipeline orchestration
   -  **One Lake** for data storage and Lake Database as the database
   -  **Synapse Data Engineering** for transforming the raw data into clean delta tables in the Lake Database , using spark notebooks for all the      processing
